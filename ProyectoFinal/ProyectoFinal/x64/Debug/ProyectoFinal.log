@@ -1,0 +1,2 @@
+﻿  MainPrueba.cpp
+C:\Users\52553\OneDrive\Documentos\Computación Gráfica e Interacción Humano - Computadora (Laboratorio)\Proyecto Final\315337969_ProyectoFinal_Grupo9\ProyectoFinal\ProyectoFinal\MainPrueba.cpp(5,10): fatal error C1083: No se puede abrir el archivo incluir: 'GL/glew.h': No such file or directory
