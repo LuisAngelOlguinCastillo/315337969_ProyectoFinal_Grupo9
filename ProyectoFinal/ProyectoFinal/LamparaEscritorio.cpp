@@ -143,7 +143,7 @@ int main( )
     glEnableVertexAttribArray(2);
 
     // Load textures
-    Model lampara((char*)"Models/Lampara Techo/LamparaTecho.obj");
+    Model lampara((char*)"Models/Lampara Escritorio/LamparaEscritorio.obj");
     GLuint texture;
     glGenTextures(1, &texture);
     glBindTexture(GL_TEXTURE_2D, texture);

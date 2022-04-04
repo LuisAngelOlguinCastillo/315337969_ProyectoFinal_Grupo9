@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="LamparaTecho.cpp">
+    <ClCompile Include="LamparaEscritorio.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>
