@@ -62,14 +62,6 @@ Tf 1.00 1.00 1.00
 Ni 1.50
 Ks 1.80 1.80 1.80
 Ns 100.00
-newmtl Material__29
-illum 4
-Kd 0.59 0.59 0.59
-Ka 0.59 0.59 0.59
-Tf 1.00 1.00 1.00
-Ni 1.50
-Ks 0.63 0.63 0.63
-Ns 40.00
 newmtl Material__35
 illum 4
 Kd 0.59 0.59 0.59
@@ -190,6 +182,13 @@ illum 4
 Kd 0.50 0.50 0.50
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Negro.jpg
 Ni 1.00
 newmtl pasted__LamparaEscritorio_initialShadingGroup
 illum 4
