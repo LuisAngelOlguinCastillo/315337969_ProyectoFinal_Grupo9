@@ -1,0 +1,36 @@
+newmtl Cabezas:Mesh_0325_rip_002
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Tex_0052_5.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl Cabezas:Mesh_0826_rip_002
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Tex_0052_5.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl Cabezas:Mesh_0863_rip_002
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Tex_0075_5.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl Cabezas:Mesh_1301_rip_002
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Tex_0055_5.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08

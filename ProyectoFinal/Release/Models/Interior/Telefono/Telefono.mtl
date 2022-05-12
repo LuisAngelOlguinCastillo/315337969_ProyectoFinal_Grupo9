@@ -1,0 +1,40 @@
+newmtl elc001_gray1__Vr
+illum 4
+Kd 0.39 0.39 0.39
+Ka 0.39 0.39 0.39
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 8.00
+newmtl elc001_gray2__Vr
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 8.00
+newmtl elc001_metall__V
+illum 4
+Kd 0.59 0.59 0.59
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 2048.00
+newmtl elc001_monitor__
+illum 4
+Kd 0.06 0.06 0.06
+Ka 0.06 0.06 0.06
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 8.00
+newmtl elc001_plastic__
+illum 4
+Kd 0.08 0.08 0.08
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 32.00

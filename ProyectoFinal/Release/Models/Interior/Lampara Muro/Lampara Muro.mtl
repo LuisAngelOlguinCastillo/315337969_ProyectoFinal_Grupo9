@@ -1,0 +1,18 @@
+newmtl glass_milk_new
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Amarillo.jpg
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl metal_grey_new
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Aluminum.jpg
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 0.00

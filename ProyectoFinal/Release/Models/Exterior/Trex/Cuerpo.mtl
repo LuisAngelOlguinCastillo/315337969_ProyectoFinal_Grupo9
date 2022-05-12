@@ -1,0 +1,63 @@
+newmtl Cuerpo:Cuerpo_Mesh_0260_rip
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Tex_0106_5.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl Cuerpo:Cuerpo_Mesh_0261_rip
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Tex_0106_5.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl Cuerpo:Cuerpo_Mesh_0263_rip
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Tex_0106_5.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl Cuerpo:Cuerpo_Mesh_0264_rip
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Tex_0106_5.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl Cuerpo:Cuerpo_Mesh_0456_rip
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Tex_0106_5.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl Cuerpo:Cuerpo_Mesh_0600_rip
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Tex_0099_5.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl Cuerpo:Cuerpo_Mesh_0771_rip
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Tex_0109_5.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08

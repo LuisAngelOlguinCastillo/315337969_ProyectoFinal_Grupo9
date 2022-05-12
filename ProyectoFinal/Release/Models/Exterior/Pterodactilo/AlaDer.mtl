@@ -1,0 +1,9 @@
+newmtl AlaDer_Mesh_0340_rip_002
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Tex_0057_5.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
